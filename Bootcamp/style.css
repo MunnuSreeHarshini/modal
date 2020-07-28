@@ -1,0 +1,22 @@
+body{
+
+  background:url("e2.jpg") no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+h1{
+  color:skyblue;
+  text-align: center;
+  margin-top: 50px;
+  font-size:2em;
+  letter-spacing:2px;
+  line-height: 50px;
+}
+h3{
+  color:white;
+  text-align: center;
+
+}
+#img{
+  margin:auto;
+}
